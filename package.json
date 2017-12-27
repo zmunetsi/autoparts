@@ -33,6 +33,6 @@
   },
   "homepage": "https://github.com/zmunetsi/autoparts#readme",
   "engines": {
-    "node": "6.10.1"
+    "node": "8.9.3"
   }
 }
