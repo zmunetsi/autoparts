@@ -14,5 +14,25 @@
     "morgan": "~1.9.0",
     "nodemon": "^1.14.3",
     "serve-favicon": "~2.4.5"
+  },
+  "description": "Auto parts site",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmunetsi/autoparts.git"
+  },
+  "keywords": [
+    "auto",
+    "parts"
+  ],
+  "author": "Munetsi Zunguzira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmunetsi/autoparts/issues"
+  },
+  "homepage": "https://github.com/zmunetsi/autoparts#readme",
+  "engines": {
+    "node": "6.10.1"
   }
 }
